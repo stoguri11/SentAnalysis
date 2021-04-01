@@ -1,4 +1,4 @@
-# FinalYearProject
+# Sentiment Analysis Application
 
 Twitter Sentiment analysis with GloVe embeddings and LSTM. 
 
